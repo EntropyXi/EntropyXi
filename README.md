@@ -5,4 +5,6 @@
 ### EMAIL: zengzhaoxi.g@gmail.com
 ### 欢迎交流学习
 
+### Student at SCAU, interested in computer science, rl, diffusion, llm
+
 
